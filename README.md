@@ -1,4 +1,7 @@
 # delegation-share-poc
+
+Demonstrates an initialization vulnerability based on share calculations
+
 CMD
 ```shell
 forge test -vvv
